@@ -32,11 +32,9 @@ This project is a responsive **clothing e-commerce website** built with modern f
 ## Demo / Screenshots  
 > Add screenshots or GIFs of your website here  
 ![alt text](image.png)
-🖼 Screenshot 2 – Collection page
-🖼 Screenshot 3 – Cart view
-
-yaml
-Copy code
+![alt text](image-1.png)
+![alt text](image-2.png)
+e
 
 ---
 
@@ -63,15 +61,13 @@ Make sure you have the following installed:
    cd Ecommerce-website-  
 Install dependencies
 
-bash
-Copy code
+
 npm install  
 # or  
 yarn install  
 Run the development server
 
-bash
-Copy code
+
 npm run dev  
 # or  
 yarn dev  
@@ -80,8 +76,7 @@ Open your browser to http://localhost:3000 (or the URL shown in the terminal)
 Folder Structure
 Here is a simplified view of the project structure:
 
-mathematica
-Copy code
+
 📦 Ecommerce-website-  
 └─ src/  
    ├─ assets/        ← images & icons  
