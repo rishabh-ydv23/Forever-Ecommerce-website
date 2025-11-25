@@ -85,10 +85,8 @@ Here is a simplified view of the project structure:
    ├─ Context/       ← React Context for state (ShopContext)  
    ├─ Pages/         ← Page components (Home, Collection, About, Contact, etc)  
    └─ App.jsx        ← Application root & Router setup  
-Contributing
-Thank you for considering contributing to this project!
-If you'd like to contribute:
-
+# Contribution:
+```
 Fork the repo
 
 Create a new branch (git checkout -b feature/YourFeature)
@@ -109,6 +107,5 @@ Created by Rishabh – feel free to connect with me:
 
 GitHub: @rishabh-ydv23
 
-Email: your-email@example.com
-
-Feel free to use this project as a base, adapt it, improve it, and show your amazing work!
+Email: rishabhyadavunnao@gmail.com
+```
